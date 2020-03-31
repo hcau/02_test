@@ -1,1 +1,5 @@
-Hello ceci est la modification de la branche master!
+
+Hello ceci est la correction suite au conflit!
+
+
+
