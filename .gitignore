@@ -1,6 +1,10 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
+
+### Pour test ###
+toto.md
+
 ### STS ###
 .apt_generated
 .classpath
